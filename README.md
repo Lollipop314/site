@@ -1,2 +1,2 @@
-# personal-website
+# site
 website for my stuff
