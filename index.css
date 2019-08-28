@@ -1,0 +1,28 @@
+body {
+	padding-left: 5px;
+	background-color: #aec6cf;
+}
+
+#top h2 {
+	font-size: 36px;
+	font-weight: normal;
+} 
+
+#top p {
+	font-size: 28px;
+}
+
+#bms h6 {
+	font-size: 24px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+
+#bms p {
+	font-size: 16px;
+}
+
+#bms a {
+	text-decoration: none;
+	color: blue;
+}
