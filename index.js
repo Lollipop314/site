@@ -99,6 +99,17 @@ let entries = [
 		img: "sad_piano_no3.jpg"
 	},
 	{
+		name: "speed gaming",
+		ev: "BOFoonXV",
+		genre: "combo based ranking system",
+		modes: "7K",
+		credits: "[warning: stupid—released under the alias osu man]",
+		link: "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=42&event=128",
+		dl: "https://mega.nz/#!rehAlCKJ!hyW9jN4PGk7tsJXOQzGl_aiDocyNFka8c93n63Z_UKg",
+		listen: "unavailable",
+		img: "speed_gaming.jpg"
+	},
+	{
 		name: "journey across an endless sky",
 		ev: "BOFXV",
 		genre: "Artcore",
