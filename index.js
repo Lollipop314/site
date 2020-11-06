@@ -1,5 +1,71 @@
 let entries = [
 	{
+		name: "memories of a distant time (Radio Edit)",
+		ev: "BOFXVI",
+		genre: "Trance",
+		modes: "7K",
+		credits: "",
+		link: "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=236&event=133",
+		dl: "https://mega.nz/file/7HIDWSLZ#WZYuWkLI81oGNgii5Rv4ih_bM0t6dg71R46aIjHVn_g",
+		listen: "https://soundcloud.com/lollipop-144989227/bofxvi-memories-of-a-distant-time",
+		img: "distant_time.jpg"
+	},
+	{
+		name: "Cloudy Skies",
+		ev: "BOFXVI",
+		genre: "Introspective Trance",
+		modes: "7K",
+		credits: "",
+		link: "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=140&event=133",
+		dl: "https://mega.nz/file/7HoCABiJ#OKRbzTz4FdU4BpkfUFsC4fgwAIPyann5jhHQ1XYl5D4",
+		listen: "https://www.youtube.com/watch?v=zYKN3qDqVME",
+		img: "cloudy_skies.jpg"
+	},
+	{
+		name: "o tempo está bom; vamos à praia~",
+		ev: "WW_battle",
+		genre: "bossa nova",
+		modes: "7K",
+		credits: "[BGA: Alexandre de la Fontaine]",
+		link: "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=132",
+		dl: "https://mega.nz/file/bGRwFQbC#jRxClhY8sHBENi5qFd7FPAONYXKChu8uNSilFAlqxns",
+		listen: "https://soundcloud.com/lollipop-144989227/ww_battle-o-tempo-esta-bom-vamos-a-praia",
+		img: "vamos_a_praia.jpg"
+	},
+	{
+		name: "on a sunny afternoon",
+		ev: "A-1 ClimaX 10th",
+		genre: "piano beats",
+		modes: "7K",
+		credits: "",
+		link: "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=47&event=131",
+		dl: "https://mega.nz/file/7TRCyKAY#uTOFv6lz_zH9CKcc1Y1GhqaaHSSBFtlMLykj9_FM_ig",
+		listen: "https://soundcloud.com/lollipop-144989227/a-1-climax-10th-on-a-sunny-afternoon",
+		img: "sunny_afternoon.jpg"
+	},
+	{
+		name: "a day in the park",
+		ev: "SPRING 9KEYS BLOSSOM 2020",
+		genre: "urban lifestyle",
+		modes: "9K",
+		credits: "",
+		link: "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=130",
+		dl: "https://mega.nz/file/XagihQJS#6GWsoKHO9VZ7bs6YejxRxENpVxrQeITgTVkXjkkIBM0",
+		listen: "https://soundcloud.com/lollipop-144989227/a-day-in-the-park",
+		img: "a_day_in_the_park.jpg"
+	},
+	{
+		name: "Lullaby for a Lost Child",
+		ev: "PABAT! 2020",
+		genre: "Berceuse",
+		modes: "7K, 14K",
+		credits: "[dedicated to my violin instructor]",
+		link: "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=58",
+		dl: "http://mega.nz/#!LX41EQRR!XR2qk_KOBSzSwqPjmetBC_yi6_IDcXzWTEwqPPCrdNs",
+		listen: "https://soundcloud.com/lollipop-144989227/pabat-2020-lullaby-for-a-lost-child",
+		img: "berceuse.jpg"
+	},
+	{
 		name: "forget me not",
 		ev: "PABAT! 2020",
 		genre: "instrumental",
