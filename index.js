@@ -1,5 +1,49 @@
 let entries = [
 	{
+		name: "were you there, when they crucified my lord?",
+		ev: "第三回BMS衆議院選",
+		genre: "christian hymn",
+		modes: "7K",
+		credits: "",
+		link: "https://venue.bmssearch.net/bmsshuin3/5",
+		dl: "https://mega.nz/file/eXolmaIY#OBjFb9zyKcJWnpIJUYZdJZySG_ua6Hd9jBgP7qRiWm4",
+		listen: "https://soundcloud.com/lollipop-144989227/were-you-there-when-they-crucified-my-lord",
+		img: "wyt.jpg"
+	},
+	{
+		name: "Laplacian Chasm",
+		ev: "\"Nancyatte\" A-1 Climax -Just Kidding-",
+		genre: "Schranz",
+		modes: "7K",
+		credits: "[Released under the alias L-アヴァリス; some charts by AYhaz]",
+		link: "http://starkey.ivory.ne.jp/nanA1/nanA1/detail/view/1/",
+		dl: "https://drive.google.com/file/d/1Ugpr3B6kdVZj2aAu98x3hVfKTYOIimgR/view?usp=sharing",
+		listen: "https://soundcloud.com/lollipop-144989227/laplacian-chasm",
+		img: "laplacian_chasm.jpg"
+	},
+	{
+		name: "marine snow -orchestral arrange-",
+		ev: "BMSをたくさん作るぜ'20",
+		genre: "Orchestral",
+		modes: "7K",
+		credits: "[Original tracks by LaValse and Medwyn Goodall]",
+		link: "https://venue.bmssearch.net/bmstukuru2020/9",
+		dl: "https://mega.nz/file/mbQzjQqJ#tBqRCSu-QVAR44X5saDd89Y8Br0BoDEFX5ilayuLdvg",
+		listen: "https://soundcloud.com/lollipop-144989227/bms20-marine-snow-orchestral-arrange",
+		img: "marine_snow.jpg"
+	},
+	{
+		name: "uhhh guys my prostate just imploded",
+		ev: "BOFXVI",
+		genre: "Juke / Footwork",
+		modes: "7K",
+		credits: "[Released under the alias exacerbated pinecone]",
+		link: "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=125&event=133",
+		dl: "https://mega.nz/file/vOwz2ICT#Re_idp7-b95tnCQOyYgIf_o03SXeFNogVTb7pdkqO5A",
+		listen: "https://soundcloud.com/lollipop-144989227/bofxvi-uhhh-guys-my-prostate-just-imploded",
+		img: "prostate.jpg"
+	},
+	{
 		name: "memories of a distant time (Radio Edit)",
 		ev: "BOFXVI",
 		genre: "Trance",
@@ -59,7 +103,7 @@ let entries = [
 		ev: "PABAT! 2020",
 		genre: "Berceuse",
 		modes: "7K, 14K",
-		credits: "[dedicated to my violin instructor]",
+		credits: "[Dedicated to my violin instructor]",
 		link: "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=58",
 		dl: "http://mega.nz/#!LX41EQRR!XR2qk_KOBSzSwqPjmetBC_yi6_IDcXzWTEwqPPCrdNs",
 		listen: "https://soundcloud.com/lollipop-144989227/pabat-2020-lullaby-for-a-lost-child",
